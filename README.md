@@ -165,7 +165,7 @@ h1{
 ## HTML VALIDATOR:
 ![HTML valid](https://user-images.githubusercontent.com/119404643/213698196-b783cf09-b9d6-41e1-988d-1405ac6caed7.png)
 
-##RESULT:
+## RESULT:
 The program for designing a simple calculator using Jvascript is created successfully.
 
 
